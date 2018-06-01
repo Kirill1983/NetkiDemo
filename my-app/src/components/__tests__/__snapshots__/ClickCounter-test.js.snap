@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test ClickCounter 1`] = `
+<ClickCounter>
+  <div>
+     
+    <button
+      onClick={[Function]}
+    >
+       click 
+    </button>
+     
+    <div
+      className="txt"
+    >
+       count = 
+      0
+       
+    </div>
+     
+  </div>
+</ClickCounter>
+`;
